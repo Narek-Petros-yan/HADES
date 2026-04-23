@@ -100,15 +100,6 @@ jupyter notebook "HADES pipeline.ipynb"
 
 ---
 
-
-## Citation
-
-If you use this work, please cite:
-
-Will be completed after publishing
-
----
-
 ## License
 
 [MIT]
