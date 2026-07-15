@@ -81,7 +81,7 @@ During installation, you may need to manually install certain packages with the 
 ### Running the HADES Calculator
 
 ```bash
-python HADES_calcualor.py --input <input_file.csv> --output <output_file.csv>
+python HADES_calculator.py --input <input_file.csv> --output <output_file.csv>
 ```
 
 ### Running the SCS Calculator
