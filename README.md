@@ -1,6 +1,6 @@
 # HADES — Holistic AI-based Drug-likeness Estimation Score
 
-HADES is a machine learning–based soft voting ensemble for predicting approved oral drug-likeness. It is trained to distinguish approved oral drugs from a curated non-drug set, and its predictions reflect the likelihood that a compound resembles an approved oral drug — not a general measure of drug-likeness.
+HADES is a machine learning–based soft voting ensemble for predicting  oral drug-likeness. It is trained to distinguish approved oral drugs from a curated non-drug set, and its predictions reflect the likelihood that a compound resembles an approved oral drug — not a general measure of drug-likeness.
 ---
 
 ## Table of Contents
